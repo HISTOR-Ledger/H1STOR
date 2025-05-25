@@ -20,6 +20,14 @@ The H1STOR project is driven by a fundamental commitment to preserving the integ
 
 These interconnected principles work together to create a robust and trustworthy platform for preserving and sharing our collective history. Decentralization underpins immutability and censorship resistance, while transparency is fundamental to verifiability. Our pragmatic approach to neutrality allows H1STOR to serve as a provider of documented and verifiable perspectives, offering a credible and sustainable path towards a more inclusive and accurate understanding of the past.
 
+## Documents
+[H1STOR - Whitepaper](https://github.com/HISTOR-Ledger/H1STOR/blob/main/H1STOR_WHITEPAPER.md)
+[H1STOR - A Verifiable Ledger for Universal Historical Event Documentation](https://github.com/HISTOR-Ledger/H1STOR/blob/main/H1STOR%3A%20A%20Verifiable%20Ledger%20for%20Universal%20Historical%20Event%20Documentation.md)
+[H1STOR - Documenting Historical Events](https://github.com/HISTOR-Ledger/H1STOR/blob/main/H1STOR%3A%20Documenting%20Historical%20Events.md)
+
+
+
+
 ## Get Involved
 
 We believe that preserving history is a collective responsibility. We invite you to learn more about the H1STOR project and explore ways to contribute by emailing us at "histor@glclabs.eu"
