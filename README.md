@@ -22,7 +22,9 @@ These interconnected principles work together to create a robust and trustworthy
 
 ## Documents
 [H1STOR - Whitepaper](https://github.com/HISTOR-Ledger/H1STOR/blob/main/H1STOR_WHITEPAPER.md)
+
 [H1STOR - A Verifiable Ledger for Universal Historical Event Documentation](https://github.com/HISTOR-Ledger/H1STOR/blob/main/H1STOR%3A%20A%20Verifiable%20Ledger%20for%20Universal%20Historical%20Event%20Documentation.md)
+
 [H1STOR - Documenting Historical Events](https://github.com/HISTOR-Ledger/H1STOR/blob/main/H1STOR%3A%20Documenting%20Historical%20Events.md)
 
 
