@@ -22,4 +22,6 @@ These interconnected principles work together to create a robust and trustworthy
 
 ## Get Involved
 
-We believe that preserving history is a collective responsibility. We invite you to learn more about the H1STOR project and explore ways to contribute to our mission. [Link to your website or contribution guidelines].
+We believe that preserving history is a collective responsibility. We invite you to learn more about the H1STOR project and explore ways to contribute by emailing us at "histor@glclabs.eu"
+
+Copyright © 2025 Gareth Caughey All Rights Reserved
